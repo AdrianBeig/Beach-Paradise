@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+.heading , .subheading{
+  color: DarkGreen;
+  text-align: left;
+  color: #82F1E8;
+}
+  h3 {
+  color: pink;
+}
